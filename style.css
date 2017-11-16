@@ -1,0 +1,35 @@
+h1{
+  color:Black;
+  font-family:cursive;
+}
+
+body{
+    text-align: left;
+    color: white;
+    background: Blue;
+    padding: 1px;
+    font-family: Candara;
+    font-size: 18px;
+    margin-top: -5px;
+}
+
+h2{
+  float: right;
+  font-family: cursive;
+  font-size: 50px;
+}
+
+h3{
+  float: left;
+  font-family: cursive;
+  font-size: 40px;
+}
+#videobox {
+display: block;
+height: 100%;
+left: 40%;
+position: absolute;
+top: 25%;
+width: 100%;
+
+}
